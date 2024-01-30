@@ -1,3 +1,3 @@
 #Online Text Editor
 
-![screenshot](screenshot(online text editor).gif)
+![screenshot](</2_Online%20Text%20Editor/screenshot(online%20text%20editor).gif>)

@@ -1,3 +1,3 @@
 #Pass Generator
 
-![screenshot](screenshot(pass generator).gif)
+![screenshot](</3_Pass%20Generator/screenshot(pass%20generator).gif>)
